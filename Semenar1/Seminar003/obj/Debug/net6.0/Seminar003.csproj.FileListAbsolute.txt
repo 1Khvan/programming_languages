@@ -1,0 +1,15 @@
+Y:\Учеба\GIT_education\programming_languages\Seminar003\bin\Debug\net6.0\Seminar003.exe
+Y:\Учеба\GIT_education\programming_languages\Seminar003\bin\Debug\net6.0\Seminar003.deps.json
+Y:\Учеба\GIT_education\programming_languages\Seminar003\bin\Debug\net6.0\Seminar003.runtimeconfig.json
+Y:\Учеба\GIT_education\programming_languages\Seminar003\bin\Debug\net6.0\Seminar003.dll
+Y:\Учеба\GIT_education\programming_languages\Seminar003\bin\Debug\net6.0\Seminar003.pdb
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.csproj.AssemblyReference.cache
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.AssemblyInfoInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.AssemblyInfo.cs
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.csproj.CoreCompileInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.dll
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\refint\Seminar003.dll
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.pdb
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\Seminar003.genruntimeconfig.cache
+Y:\Учеба\GIT_education\programming_languages\Seminar003\obj\Debug\net6.0\ref\Seminar003.dll
