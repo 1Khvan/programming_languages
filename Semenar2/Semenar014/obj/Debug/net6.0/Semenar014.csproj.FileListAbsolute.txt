@@ -1,0 +1,15 @@
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\bin\Debug\net6.0\Semenar014.exe
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\bin\Debug\net6.0\Semenar014.deps.json
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\bin\Debug\net6.0\Semenar014.runtimeconfig.json
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\bin\Debug\net6.0\Semenar014.dll
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\bin\Debug\net6.0\Semenar014.pdb
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.csproj.AssemblyReference.cache
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.AssemblyInfoInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.AssemblyInfo.cs
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.csproj.CoreCompileInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.dll
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\refint\Semenar014.dll
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.pdb
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\Semenar014.genruntimeconfig.cache
+Y:\Учеба\GIT_education\programming_languages\Semenar2\Semenar014\obj\Debug\net6.0\ref\Semenar014.dll
