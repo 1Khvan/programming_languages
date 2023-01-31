@@ -6,9 +6,6 @@ Console.WriteLine("Приветству!");
 Console.Write("Введите трехзначное число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(a);
-int a1 = a % 100;
-int a3 = a % 10;
+int a2 = a / 10;
 
-
-Console.WriteLine((a1-a3)/10);
+Console.WriteLine((a2%10));
