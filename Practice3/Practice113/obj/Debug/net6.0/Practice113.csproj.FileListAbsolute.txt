@@ -1,0 +1,15 @@
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/bin/Debug/net6.0/Practice113
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/bin/Debug/net6.0/Practice113.deps.json
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/bin/Debug/net6.0/Practice113.runtimeconfig.json
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/bin/Debug/net6.0/Practice113.dll
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/bin/Debug/net6.0/Practice113.pdb
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.csproj.AssemblyReference.cache
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.GeneratedMSBuildEditorConfig.editorconfig
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.AssemblyInfoInputs.cache
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.AssemblyInfo.cs
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.csproj.CoreCompileInputs.cache
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.dll
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/refint/Practice113.dll
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.pdb
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/Practice113.genruntimeconfig.cache
+/Users/i.khvan/Учеба/programming_languages/Practice3/Practice113/obj/Debug/net6.0/ref/Practice113.dll
