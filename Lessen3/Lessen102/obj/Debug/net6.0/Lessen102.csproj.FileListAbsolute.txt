@@ -1,0 +1,15 @@
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.csproj.AssemblyReference.cache
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.GeneratedMSBuildEditorConfig.editorconfig
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.AssemblyInfoInputs.cache
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.AssemblyInfo.cs
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.csproj.CoreCompileInputs.cache
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/bin/Debug/net6.0/Lessen102
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/bin/Debug/net6.0/Lessen102.deps.json
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/bin/Debug/net6.0/Lessen102.runtimeconfig.json
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/bin/Debug/net6.0/Lessen102.dll
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/bin/Debug/net6.0/Lessen102.pdb
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.dll
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/refint/Lessen102.dll
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.pdb
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/Lessen102.genruntimeconfig.cache
+/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen102/obj/Debug/net6.0/ref/Lessen102.dll
