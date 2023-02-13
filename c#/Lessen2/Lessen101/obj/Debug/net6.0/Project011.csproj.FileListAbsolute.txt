@@ -1,0 +1,15 @@
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\bin\Debug\net6.0\Project011.exe
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\bin\Debug\net6.0\Project011.deps.json
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\bin\Debug\net6.0\Project011.runtimeconfig.json
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\bin\Debug\net6.0\Project011.dll
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\bin\Debug\net6.0\Project011.pdb
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.csproj.AssemblyReference.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.AssemblyInfoInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.AssemblyInfo.cs
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.csproj.CoreCompileInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.dll
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\refint\Project011.dll
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.pdb
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\Project011.genruntimeconfig.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen2\Project011\obj\Debug\net6.0\ref\Project011.dll

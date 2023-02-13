@@ -1,0 +1,15 @@
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.csproj.AssemblyReference.cache
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.GeneratedMSBuildEditorConfig.editorconfig
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.AssemblyInfoInputs.cache
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.AssemblyInfo.cs
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.csproj.CoreCompileInputs.cache
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/bin/Debug/net6.0/Practice201
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/bin/Debug/net6.0/Practice201.deps.json
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/bin/Debug/net6.0/Practice201.runtimeconfig.json
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/bin/Debug/net6.0/Practice201.dll
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/bin/Debug/net6.0/Practice201.pdb
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.dll
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/refint/Practice201.dll
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.pdb
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/Practice201.genruntimeconfig.cache
+/Users/i.khvan/Учеба/programming_languages/Practice4/Practice201/obj/Debug/net6.0/ref/Practice201.dll

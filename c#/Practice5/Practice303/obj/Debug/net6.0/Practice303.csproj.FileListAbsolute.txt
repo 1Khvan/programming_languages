@@ -1,0 +1,15 @@
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.csproj.AssemblyReference.cache
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.AssemblyInfoInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.AssemblyInfo.cs
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.csproj.CoreCompileInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\bin\Debug\net6.0\Practice303.exe
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\bin\Debug\net6.0\Practice303.deps.json
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\bin\Debug\net6.0\Practice303.runtimeconfig.json
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\bin\Debug\net6.0\Practice303.dll
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\bin\Debug\net6.0\Practice303.pdb
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.dll
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\refint\Practice303.dll
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.pdb
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\Practice303.genruntimeconfig.cache
+Y:\Учеба\GIT_education\programming_languages\Practice5\Practice303\obj\Debug\net6.0\ref\Practice303.dll
