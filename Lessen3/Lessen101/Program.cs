@@ -31,7 +31,7 @@ void Metod21(string msg, int count)
 
 int Metod3() // - не принимает никакие аргументы
 {
-return DataTime.Now.Year; //- обязательное использование оператора return,
+return DateTime.Now.Year; //- обязательное использование оператора return,
 }
 int year = Metod3(); //- вызываем метод, в левой части используем идентификатор переменной (year) и через оператор присваивания (=) кладём нужное значение
 Console.WriteLine(year);
@@ -62,5 +62,5 @@ string Metod41(int count, string text)
 	result = result + text;
 }
 return result; }
-string res = Metod41(10, "metod"); Console.WriteLine(res);
+res = Metod41(10, "metod"); Console.WriteLine(res);
 

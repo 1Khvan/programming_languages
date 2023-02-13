@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen101/Lessen101.csproj": {}
+    "Y:\\Учеба\\GIT_education\\programming_languages\\Lessen3\\Lessen101\\Lessen101.csproj": {}
   },
   "projects": {
-    "/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen101/Lessen101.csproj": {
+    "Y:\\Учеба\\GIT_education\\programming_languages\\Lessen3\\Lessen101\\Lessen101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen101/Lessen101.csproj",
+        "projectUniqueName": "Y:\\Учеба\\GIT_education\\programming_languages\\Lessen3\\Lessen101\\Lessen101.csproj",
         "projectName": "Lessen101",
-        "projectPath": "/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen101/Lessen101.csproj",
-        "packagesPath": "/Users/i.khvan/.nuget/packages/",
-        "outputPath": "/Users/i.khvan/Учеба/programming_languages/Lessen3/Lessen101/obj/",
+        "projectPath": "Y:\\Учеба\\GIT_education\\programming_languages\\Lessen3\\Lessen101\\Lessen101.csproj",
+        "packagesPath": "C:\\Users\\Tower\\.nuget\\packages\\",
+        "outputPath": "Y:\\Учеба\\GIT_education\\programming_languages\\Lessen3\\Lessen101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/i.khvan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tower\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

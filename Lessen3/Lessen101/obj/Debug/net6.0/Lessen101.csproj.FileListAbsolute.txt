@@ -1,0 +1,15 @@
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.csproj.AssemblyReference.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.AssemblyInfoInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.AssemblyInfo.cs
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.csproj.CoreCompileInputs.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\bin\Debug\net6.0\Lessen101.exe
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\bin\Debug\net6.0\Lessen101.deps.json
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\bin\Debug\net6.0\Lessen101.runtimeconfig.json
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\bin\Debug\net6.0\Lessen101.dll
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\bin\Debug\net6.0\Lessen101.pdb
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.dll
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\refint\Lessen101.dll
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.pdb
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\Lessen101.genruntimeconfig.cache
+Y:\Учеба\GIT_education\programming_languages\Lessen3\Lessen101\obj\Debug\net6.0\ref\Lessen101.dll
