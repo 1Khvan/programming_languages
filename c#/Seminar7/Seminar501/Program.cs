@@ -23,7 +23,6 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-
 Console.Clear();
 Console.Write("Введите размер массива: ");
 int[] size = Console.ReadLine().Split().Select(x => int.Parse(x)).ToArray();
