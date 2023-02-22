@@ -41,17 +41,16 @@ PrintMatrix(matrix2);
 Console.WriteLine();
 
 
-// for (int i = 0; i < matrix.GetLength(0); i++)
-// {
-//     for (int j = 0; j < matrix2.GetLength(1); j++)
-//     {
-//         matrixMultiplication[i, j] = 0;
-//         for (int k = 0; k < matrix.GetLength(1); k++)
-//         {
-//             matrixMultiplication[i, j] += matrix[i, k] * matrix2[k,j];
-//         }
-//     }
-// }
+for (int i = 0; i < matrix.GetLength(0); i++)
+{
+    for (int j = 0; j < matrix.GetLength(1); j++)
+    {
+        matrixMultiplication[i, j] = 0;
+        {
+            matrixMultiplication[i, j] += matrix[i, j] * matrix2[i, j];
+        }
+    }
+}
 
 Console.WriteLine("Результирующая матрица будет: ");
 PrintMatrix(matrixMultiplication);
