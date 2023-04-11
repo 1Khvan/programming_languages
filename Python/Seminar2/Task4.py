@@ -21,6 +21,6 @@ for i in range(watermelon):
     print(weigth, end=" ")
     if weigth > max_weigth:
         max_weigth = weigth
-    elif weigth < min_weigth:
+    if weigth < min_weigth:
         min_weigth = weigth
 print(f"\nАрбуз для себя получился на {max_weigth} г, а для тёщи {min_weigth} г. Как-то так")
