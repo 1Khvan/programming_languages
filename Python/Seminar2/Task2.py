@@ -4,13 +4,15 @@
 n1 = 0
 n2 = 1
 
-k = 2
+index_fibanachi = 2
 
 a = int(input("Введите число: "))
 while n2 < a:
     n1, n2 = n2, n2+n1
-    k += 1
+    # n1=n2
+    # n2=n1+n2
+    index_fibanachi  += 1
 if n2 != a:
     print("-1")
 else:
-    print(k)
+    print(index_fibanachi k)
