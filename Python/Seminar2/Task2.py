@@ -15,4 +15,4 @@ while n2 < a:
 if n2 != a:
     print("-1")
 else:
-    print(index_fibonachi k)
+    print(index_fibonachi)
