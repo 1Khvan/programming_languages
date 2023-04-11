@@ -4,15 +4,15 @@
 n1 = 0
 n2 = 1
 
-index_fibanachi = 2
+index_fibonachi = 1
 
 a = int(input("Введите число: "))
 while n2 < a:
     n1, n2 = n2, n2+n1
     # n1=n2
     # n2=n1+n2
-    index_fibanachi  += 1
+    index_fibonachi  += 1
 if n2 != a:
     print("-1")
 else:
-    print(index_fibanachi k)
+    print(index_fibonachi k)
