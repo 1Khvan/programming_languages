@@ -10,7 +10,10 @@
 
 import random
 number_item = int(input("Введите количество элементов в массиве: "))
-array = [random.randint(1, 100) for i in range(number_item)]
+array = [
+    random.randint(1, 100) 
+    for i in range(number_item)
+    ]
 print(array)
 found_number = int(input("Введите число: "))
 count = 0
