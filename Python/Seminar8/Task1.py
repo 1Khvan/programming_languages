@@ -38,28 +38,28 @@ def add_contact():
         file.write(line)
 
 # Найти контакт
-def find_char():
+def find_сharacteristic():
     print('Выберите характеристику:')
     option=('0 - id, 1 - фамилия, 2 - имя, 3 - отчество, 4 - номер, q - выйти')
     print(option)
-    char = input()
-    while char not in ('0', '1', '2', '3', '4', 'q'):
+    сharacteristic = input()
+    while сharacteristic not in ('0', '1', '2', '3', '4', 'q'):
         print('Введены неверные данные')
         print('Выберите характеристику:')
         print(option)
-        char = input()
-    if char != 'q':
-        inp = input('Введите значение\n')
-        return char, inp
+        сharacteristic = input()
+    if сharacteristic != 'q':
+        fromUser = input('Введите значение\n')
+        return сharacteristic, fromUser
     else:
         return 'q', 'q'
     
-def find_contact(char, condition):
+def find_contact(сharacteristic, condition):
     if condition != 'q':
         printed = False
-        with open('Python\Seminar8\PhoneBook.txt', 'r', encoding='utf-8') as data:
-            for line in data:
-                if condition == line.split(';')[int(char)]:
+        with open('Python\Seminar8\PhoneBook.txt', 'r', encoding='utf-8') as file:
+            for line in file:
+                if condition == line.split(';')[int(сharacteristic)]:
                     print(*line.split(';'))
                     printed = True
         if not printed:
@@ -99,7 +99,7 @@ while True:
     elif fromUser == 2:
         add_contact()
     elif fromUser == 3:
-        find_contact('Python\Seminar8\PhoneBook.txt', *find_char())
+        find_contact('Python\Seminar8\PhoneBook.txt', *find_сharacteristic())
     elif fromUser == 4:
         old_data = input('Чей контакт хотим изменить?: ')
         new_data = input('Как хотим изменить?: ')
