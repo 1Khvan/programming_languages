@@ -37,7 +37,7 @@ def add_contact():
         line = f'{int(record_id) + 1};' + ';'.join(input().split()[:4]) + ';\n'
         file.write(line)
 
-# Найти контакт
+
 def find_сharacteristic():
     print('Выберите характеристику:')
     option=('0 - id, 1 - фамилия, 2 - имя, 3 - отчество, 4 - номер, q - выйти')
@@ -53,7 +53,8 @@ def find_сharacteristic():
         return сharacteristic, fromUser
     else:
         return 'q', 'q'
-    
+
+# Найти контакт    
 def find_contact(file_name: str, сharacteristic, condition):
     if condition != 'q':
         printed = False
