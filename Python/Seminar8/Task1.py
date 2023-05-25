@@ -107,15 +107,15 @@ def change_contact(file_name: str):
         replaced_line = f'{int(record_id)};' + ';'.join(
             input('Введите фамилию, имя, отчество, номер телефона через пробел\n').split()[:4]) + ';\n'
         confirm = confirmation('изменение')
-        if confirm == 'y':
+        if confirm == '1':
             replace_contact_line(file_name, record_id, replaced_line)
 
 # Удалить контакт
-def delete_records(file_name: str):
+def delete_contac(file_name: str):
     record_id = check_id_contact(file_name, 'удалить')
     if record_id != 'q':
         confirm = confirmation('удаление')
-        if confirm == 'y':
+        if confirm == '1':
             replace_contact_line(file_name, record_id, '')
 
 
@@ -140,7 +140,7 @@ while True:
     elif fromUser == 4:
         change_contact('Python\Seminar8\PhoneBook.txt')
     elif fromUser == 5:
-        delete_records('Python\Seminar8\PhoneBook.txt')
+        delete_contac('Python\Seminar8\PhoneBook.txt')
     elif fromUser == 6:
         break
     else:
