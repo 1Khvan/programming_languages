@@ -66,25 +66,62 @@ def find_contact(file_name: str, сharacteristic, condition):
             print("Не найдено")
         return printed
 
+
+
+def check_id_contact(file_name: str, text: str):
+    decision = input(f'Вы знаете id записи которую хотите {text}? 1 - да, 2 - нет, q - выйти\n')
+    while decision not in ('1', 'q'):
+        if decision != '2':
+            print('Введены неверные данные')
+        else:
+            find_contact('Python\Seminar8\PhoneBook.txt', *find_сharacteristic())
+        decision = input(f'Вы знаете id записи которую хотите {text}? 1 - да, 2 - нет, q - выйти\n')
+    if decision == '1':
+        record_id = input('Введите id, q - выйти\n')
+        while not find_contact(file_name, '0', record_id) and record_id != 'q':
+            record_id = input('Введите id, q - выйти\n')
+        return record_id
+    return decision
+
+def confirmation(text: str):
+    confirm = input(f"Подтвердите {text} записи: 1 - да, 2 - нет\n")
+    while confirm not in ('1', '2'):
+        print('Введены неверные данные')
+        confirm = input(f"Подтвердите {text} записи: 1 - да, 2 - нет\n")
+    return confirm
+
+def replace_contact_line(file_name: str, record_id, replaced_line: str):
+    replaced = ''
+    with open(file_name, 'r', encoding='utf-8') as file:
+        for line in file:
+            replaced += line
+            if record_id == line.split(';', 1)[0]:
+                replaced = replaced.replace(line, replaced_line)
+    with open(file_name, 'w', encoding='utf-8') as file:
+        file.write(replaced)
+
 # Изменить контакт
-def change_contact(new_data, old_data):
-    contacts = contact_list()
-    with open('Python\Seminar8\PhoneBook.txt', 'a', encoding='utf8') as file:
-        for item in contacts:
-            if  old_data != item:
-                file.write(item)
-            else:
-                file.write(new_data + "\n")
+def change_contact(file_name: str):
+    record_id = check_id_contact(file_name, 'изменить')
+    if record_id != 'q':
+        replaced_line = f'{int(record_id)};' + ';'.join(
+            input('Введите фамилию, имя, отчество, номер телефона через пробел\n').split()[:4]) + ';\n'
+        confirm = confirmation('изменение')
+        if confirm == 'y':
+            replace_contact_line(file_name, record_id, replaced_line)
 
 # Удалить контакт
-def delete_person(name):
-    contacts = contact_list()
-    with open('Python\Seminar8\PhoneBook.txt', 'a', encoding='utf8' ) as file:
-        for item in contacts:
-            if name != item:
-                file.write(item)
+def delete_records(file_name: str):
+    record_id = check_id_contact(file_name, 'удалить')
+    if record_id != 'q':
+        confirm = confirmation('удаление')
+        if confirm == 'y':
+            replace_contact_line(file_name, record_id, '')
 
-print("ТЕЛЕФОННЫЙ СПРАВОЧНИК")
+
+
+
+print("Основное меню")
 print("Выберите команду: ")
 print("1: Посмотреть список контактов")
 print("2: Добавить контакт")
@@ -93,7 +130,7 @@ print("4: Изменить контакт")
 print("5: Удалить контакт")
 print("6: Выход")
 while True:
-    fromUser = int(input("Ваш выбор: "))
+    fromUser = int(input("Ваш выбор из основого меню: "))
     if fromUser == 1:
         print(contact_list())
     elif fromUser == 2:
@@ -101,12 +138,9 @@ while True:
     elif fromUser == 3:
         find_contact('Python\Seminar8\PhoneBook.txt', *find_сharacteristic())
     elif fromUser == 4:
-        old_data = input('Чей контакт хотим изменить?: ')
-        new_data = input('Как хотим изменить?: ')
-        change_contact(new_data,old_data)
+        change_contact('Python\Seminar8\PhoneBook.txt')
     elif fromUser == 5:
-        name = input('Чей контакт хотим удалить?: ')
-        delete_person(name)
+        delete_records('Python\Seminar8\PhoneBook.txt')
     elif fromUser == 6:
         break
     else:
