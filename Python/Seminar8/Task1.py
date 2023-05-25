@@ -54,10 +54,10 @@ def find_сharacteristic():
     else:
         return 'q', 'q'
     
-def find_contact(сharacteristic, condition):
+def find_contact(file_name: str, сharacteristic, condition):
     if condition != 'q':
         printed = False
-        with open('Python\Seminar8\PhoneBook.txt', 'r', encoding='utf-8') as file:
+        with open(file_name, 'r', encoding='utf-8') as file:
             for line in file:
                 if condition == line.split(';')[int(сharacteristic)]:
                     print(*line.split(';'))
