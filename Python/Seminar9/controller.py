@@ -9,10 +9,10 @@ def start():
         match choice:
             case 1:
                 model.open_pb()
-                view.print_message(text.load_successful)
+                view.print_massage(text.load_successful)
             case 2:
                 model.save_pb()
-                view.print_message(text.save_successful)
+                view.print_massage(text.save_successful)
             case 3:
                 pb = model.get_pb()
                 view.print_contact(pb, text.load_error)

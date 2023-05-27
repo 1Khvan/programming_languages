@@ -10,9 +10,9 @@ def main_menu() -> int:
 
 
 def print_massage(message: str):
-    print('/n'+'=' * len(message))
+    print('/n' + '=' * len(message))
     print(message)
-    print('=' * len(message)+'/n')
+    print('=' * len(message) + '/n')
 
 
 def print_contact(pb: list[dict[str, str]], error: str):
